@@ -1,0 +1,9 @@
+python-dotenv
+pymongo
+selenium
+webdriver-manager
+pytz
+psutil
+requests
+beautifulsoup4
+#pip install -r thuvien.txt
